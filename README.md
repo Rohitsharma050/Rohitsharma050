@@ -38,7 +38,7 @@ I am a Computer Science Engineering student and an aspiring Software Engineer wh
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohitsharma50/)]
+* 💼 LinkedIn: [[https://linkedin.com/in/rohitsharma50/](https://www.linkedin.com/in/rohitsharma50/)]
 * 🌐 Portfolio: Coming Soon
 * ✉️ Email: [rohitsharmasa120111@gmail.com](mailto:rohitsharmasa120111@gmail.com)
 
