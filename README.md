@@ -2,54 +2,36 @@
 
 ## 🚀 About Me
 
-I am a Computer Science Engineering student and an aspiring Software Engineer who enjoys building scalable web applications and solving complex problems using data structures and algorithms. I am passionate about learning new technologies and improving my skills through consistent practice and real-world projects.
-
-* 🎓 B.Tech CSE (2023–2027) @ KIET Group of Institutions
-* 💻 Strong in DSA and problem-solving (800+ problems solved)
-* 🌱 Currently learning advanced web development and system design
-* 🧠 Interested in AI-powered applications and backend systems
+I am a Computer Science Engineering student and an aspiring Software Engineer who loves turning ideas into clean, efficient, and scalable code. I enjoy building real-world web applications, solving challenging DSA problems, and understanding how systems work under the hood. I believe in learning by building, collaborating with other developers, and continuously pushing my limits through hands-on projects and open-source-friendly practices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Java • C++ • Python • JavaScript
-
-**Web Development**
-HTML • CSS • Tailwind CSS • React • Node.js • Express
-
-**Databases**
-MongoDB • MySQL
-
-**Tools & Platforms**
-Git • GitHub • VS Code • Postman
+| Category              | Technologies                                     |
+| --------------------- | ------------------------------------------------ |
+| **Languages**         | Java, C++, Python, JavaScript                    |
+| **Web Development**   | HTML, CSS, Tailwind CSS, React, Node.js, Express |
+| **Databases**         | MongoDB, MySQL                                   |
+| **Tools & Platforms** | Git, GitHub, VS Code, Postman                    |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 SkillGraph+
-
-AI-Powered Career Navigator that helps users analyze skills and track career growth.
-
-### 🔹 Alumni Association Platform
-
-A full-stack web application for college alumni networking, job postings, events, and donations.
-
-### 🔹 Web Development Projects
-
-Multiple responsive and modern UI-based projects using HTML, CSS, JavaScript, and React.
+| Project                                                 | Description                                                                                                                                                                                             | Tech Stack                                                                |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Ossean — Open Source Project Explorer**               | Backend-driven platform to discover trending open-source repositories. Integrated GitHub APIs with auth, rate-limit handling, optimized data fetching, and backend filters for language and popularity. | React.js, MongoDB, JWT Auth, GitHub API, Tailwind CSS                     |
+| **EasyMed — Appointment Booking & Management Platform** | Appointment booking system with role-based access for patients and doctors. Implemented secure JWT authentication, REST APIs, and media uploads using Cloudinary.                                       | React.js, MongoDB, Express.js, JWT Auth, Cloudinary, Multer, Tailwind CSS |
 
 ---
 
 ## 📊 GitHub Stats
 
+---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🏆 Achievements
 
