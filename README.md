@@ -26,12 +26,6 @@ I am a Computer Science Engineering student and an aspiring Software Engineer wh
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
-
 ## 🏆 Achievements
 
 * Solved 800+ DSA problems across various platforms.
@@ -44,7 +38,7 @@ I am a Computer Science Engineering student and an aspiring Software Engineer wh
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohitsharma50/)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohitsharma50/))
+* 💼 LinkedIn: [[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohitsharma50/)]
 * 🌐 Portfolio: Coming Soon
 * ✉️ Email: [rohitsharmasa120111@gmail.com](mailto:rohitsharmasa120111@gmail.com)
 
