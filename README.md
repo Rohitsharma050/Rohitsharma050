@@ -28,24 +28,25 @@ I am a Computer Science Engineering student and an aspiring Software Engineer wh
 
 ## 📊 GitHub Stats
 
----
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
 
 ## 🏆 Achievements
 
-* Solved 800+ DSA problems across various platforms
-* Completed multiple certifications from HackerRank and LinkedIn Learning
-* ONGC Scholarship recipient
+* Solved 800+ DSA problems across various platforms.
+* Achieved a Knight rating (1907) and ranked in the top 4% globally on LeetCode.
+* Earned a 2 star rating (1488) on CodeChef and a Pupil rating (1223) on Codeforces.
+
+
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* 💼 LinkedIn: [[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohitsharma50/)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohitsharma50/))
 * 🌐 Portfolio: Coming Soon
-* ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+* ✉️ Email: [rohitsharmasa120111@gmail.com](mailto:rohitsharmasa120111@gmail.com)
 
 ---
 
