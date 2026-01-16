@@ -26,10 +26,6 @@ I am a Computer Science Engineering student and an aspiring Software Engineer wh
 
 ---
 
-## 📊 GitHub Stats
-
----
-
 ## 🏆 Achievements
 
 * Solved 800+ DSA problems across various platforms
